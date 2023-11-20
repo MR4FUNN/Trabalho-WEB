@@ -1,0 +1,18 @@
+﻿/* Lógico_1: */
+
+CREATE TABLE usuarios (
+    id_usuarios inteiro PRIMARY KEY,
+    nome varchar,
+    email varchar,
+    senha  varchar
+);
+
+CREATE TABLE comentarios (
+    id_comentarios inteiro,
+    id_usuarios interger,
+    comentarios varchar,
+    date DATE,
+    hora varchar,
+    PRIMARY KEY (id_comentarios, id_usuarios)
+);
+

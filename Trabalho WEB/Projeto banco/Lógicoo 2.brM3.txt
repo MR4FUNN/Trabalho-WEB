@@ -1,0 +1,262 @@
+¨Ì sr "controlador.apoios.GuardaPadraoBrMÃ*´®;÷ L Tagt Ljava/lang/String;L autorq ~ L dataq ~ [ diagramat [BL versaoq ~ L versaoDiagramaq ~ xpt 3.2.0t Carlos Henrique C√¢ndidot 
+13-02-2012ur [B¨Û¯T‡  xp  h=¨Ì sr diagramas.logico.DiagramaLogicoE˘-%≥ˇRì I ATAGI CONS_DISTANCIA_LEFTI CONS_DISTANCIA_TOPI 
+CONV_FISICOI 
+EDITOR_CAMPOSI EDITOR_CAMPOS_TPL COMM_COV_FISICOt Ljava/lang/String;L 
+COMM_EDT_CMPSq ~ L COMM_EDT_CMPS_TPq ~ L COMM_ORGq ~ [ classesDoDiagramat [Ljava/lang/Class;L 	dataModelt  Ldiagramas/logico/DataBaseModel;L  prefixoq ~ L separatorSQLq ~ xr controlador.Diagrama  J‘Û$Ÿ I  TotalIDI _tickI 	baseRecuoZ  dragingI heigthZ 
+isMouseDownZ mudouZ realceI widthD zoomL DiagramaDownPost Ljava/awt/Point;L ListaDeItenst Ljava/util/ArrayList;L 
+ScrPosicaoq ~ [ classesDoDiagramaq ~ L fontt Ljava/awt/Font;L 	foreColort Ljava/awt/Color;L infoDiagramat Ldesenho/FormaElementar;L itensSelecionadosq ~ L meusComandosq ~ L overDrawq ~ 	L pontoCorq ~ L pontoCorMultSelq ~ L subItensq ~ L superAncoradort Ldesenho/Ancorador;L tipot %Lcontrolador/Diagrama$TipoDeDiagrama;L v300q ~ L v310q ~ L  versaoAq ~ L  versaoBq ~ L  versaoCq ~ xp   7   h            ?¯      sr java.awt.Point∂ƒär4~»& I xI yxp   Û   Lsr java.util.ArrayListxÅ“ô«aù I sizexp   w   sr controlador.apoios.InfoDiagrama9ï–⁄À›ëF I 
+alinhamento_hI 
+alinhamento_vL  autoresq ~ L diagramaUniversalUnicIDq ~ L realDiagramaUniversalUnicIDq ~ xr desenho.formas.Forma≈ÛS˛Ë2a I CONST_ORG_DIAGI 
+INI_ORGDIAGZ 	editFonteZ needRecalPtsZ nodicZ 
+showOrgDiag[ Pontost [Ldesenho/PontoElementar;L Textoq ~ L TextoFormatadot Lutil/DesenhadorDeTexto;L 
+observacaoq ~ L 
+pontoPosi0q ~ L 
+pontoPosi1q ~ L 
+pontoPosi2q ~ L 
+pontoPosi3q ~ L 
+pontoPosi4q ~ L 
+pontoPosi5q ~ L 
+pontoPosi6q ~ L 
+pontoPosi7q ~ L 	principalt Ldesenho/formas/Forma;L textoAdicionalq ~ xr desenho.FormaElementarÒ™ï≤sÉY 
+Z AceitaAjusteAutmaticoI IDZ PontosIsHideZ SelecionavelZ ancoradoI 
+distSelecaoZ 	raiseMudaZ 
+selecionadoZ snDisablePaintedL propriedadesAdicinaisq ~ L subItenst Ljava/util/List;xr desenho.Elementar  x◊SÈ9 Z canBeDeletedZ canPaintZ 	destruidoZ disablePaintedI heightI leftZ 	stopRaizeI topZ  visibleI widthL 	backColorq ~ L clientRectanglet Ljava/awt/Rectangle;L  criadorq ~ 	L cursort Ljava/awt/Cursor;L 
+disabledColorq ~ L fontq ~  L 	foreColorq ~ L 	listenersq ~ L mastert Lcontrolador/Diagrama;L sizet Ljava/awt/Dimension;xp     ñ          ,sr java.awt.Color•Éè3u F falphaI valueL cst Ljava/awt/color/ColorSpace;[ 	frgbvaluet [F[ fvalueq ~  xp    Äˇ  pppsr java.awt.Rectangle√∞j jt I heightI widthI xI yxp   ñ  ,      psr java.awt.Cursoroj w˜† I typeL nameq ~ xp   t Cursor em Forma de M√£osq ~     ˇ›››pppsr 
+java.awt.Font≈°5ÊÃﬁVs I fontSerializedDataVersionF 	pointSizeI sizeI styleL fRequestedAttributest Ljava/util/Hashtable;L nameq ~ xp   A@        pt Arialxsq ~     ˇ   ppppq ~ sr java.awt.DimensionAéŸ◊¨_D I heightI widthxp                 psq ~    w   sr desenho.formas.PontoDeForma¸∞6˙jò˜¶ Z 
+AllwaysHideZ 
+isMouseDownI  posicaoL downq ~ xr desenho.PontoElementarm"≥≥QÓ` Z isHideI recuoL  inidownq ~ xq ~                   q ~ ,sq ~ "              q ~ sq ~ $   q ~ &sq ~     ˇ›››pppsq ~ (   A@        pq ~ +xq ~ ,pq ~ sq ~ -          sq ~ 
+          ˇˇˇˇsq ~ 
+        sq ~ 0                  q ~ ,sq ~ "              q ~ sq ~ $   q ~ &sq ~     ˇ›››pppsq ~ (   A@        pq ~ +xq ~ ,pq ~ sq ~ -          sq ~ 
+          ˇˇˇˇsq ~ 
+        sq ~ 0                  q ~ ,sq ~ "              q ~ sq ~ $   q ~ &sq ~     ˇ›››pppsq ~ (   A@        pq ~ +xq ~ ,pq ~ sq ~ -          sq ~ 
+          ˇˇˇˇsq ~ 
+        sq ~ 0                  q ~ ,sq ~ "              q ~ sq ~ $   q ~ &sq ~     ˇ›››pppsq ~ (   A@        pq ~ +xq ~ ,pq ~ sq ~ -          sq ~ 
+          ˇˇˇˇsq ~ 
+        sq ~ 0                  q ~ ,sq ~ "              q ~ sq ~ $   q ~ &sq ~     ˇ›››pppsq ~ (   A@        pq ~ +xq ~ ,pq ~ sq ~ -          sq ~ 
+          ˇˇˇˇsq ~ 
+        sq ~ 0                  q ~ ,sq ~ "              q ~ sq ~ $   q ~ &sq ~     ˇ›››pppsq ~ (   A@        pq ~ +xq ~ ,pq ~ sq ~ -          sq ~ 
+          ˇˇˇˇsq ~ 
+        sq ~ 0                  q ~ ,sq ~ "              q ~ sq ~ $   q ~ &sq ~     ˇ›››pppsq ~ (   A@        pq ~ +xq ~ ,pq ~ sq ~ -          sq ~ 
+          ˇˇˇˇsq ~ 
+        sq ~ 0                  q ~ ,sq ~ "              q ~ sq ~ $   q ~ &sq ~     ˇ›››pppsq ~ (   A@        pq ~ +xq ~ ,pq ~ sq ~ -          sq ~ 
+          ˇˇˇˇsq ~ 
+        x   F     ur [Ldesenho.PontoElementar;(6“ÑÑ…  xp   q ~ 2q ~ :q ~ Bq ~ Jq ~ Rq ~ Zq ~ bq ~ jt  pq ~ tpppppppppq ~ t   <   2q ~ tt AA2C-17-33A1-3-46E4-42-EEt F15B-7A-4D-75-B112-52-60sr diagramas.logico.Tabelaç(-!È%;˘ +I CODE_DDLI CODE_DEL_CMP_CONSTI 
+CODE_DESCEI CODE_EDT_CMPI CODE_EDT_CMP_TPI 	CODE_SOBEI DDL_PEGAR_INTEGRIDADEI DDL_PEGAR_INTEGRIDADE_FKI $DDL_PEGAR_INTEGRIDADE_PK_UN_NOMEADASI DDL_PEGAR_TABELASI DDL_PEGAR_TUDOI 
+DESCE_CAMPOI 
+DESCE_CONSTANI 
+EDITOR_CAMPOSI EDITOR_CAMPOS_TPI 	PRINT_DDLI 
+SOBE_CAMPOI SOBE_CONSTANI alturaI 	alturaDDLZ autosizeI 	cmpAlturaI cmpAlturaPadraoZ mostrarConstraintsI pisoZ  plainIRZ  showDDLZ 
+showInPlainL 
+COMM_EDT_CMPSq ~ L COMM_EDT_CMPS_TPq ~ L  COMM_RIq ~ L 
+COMM_RI_FKq ~ L 
+COMM_RI_PKq ~ L 
+COMM_RI_UNq ~ L Camposq ~ L 
+Constraintsq ~ L campoSelecionadot Ldiagramas/logico/Campo;L constraintSelecionadot Ldiagramas/logico/Constraint;L imgfkq ~ L imgkq ~ L imgkfkq ~ L imgunq ~ L  imgunfkq ~ xr 'desenho.preDiagrama.baseDrawerFromForma>Â(P≈›·Û I HI 
+HORIZONTALI LI TI VERTICALI WF alfaZ 
+alteraFormaZ 
+blankPaintZ delimiteI gdirecaoZ 	gradienteI margemTituloZ 
+pintarBordaI 	roundrectL corBordaq ~ L gradienteEndColorq ~ L gradienteStartColorq ~ xq ~      ñ   I    R   ñsq ~     Äˇ  pppsq ~ "   ñ   ñ   I   Rpsq ~ $   q ~ &sq ~     ˇ›››pppsq ~ (   A@        sr java.util.Hashtableª%!J‰∏ F 
+loadFactorI 	thresholdxp?@     w   
+   t $sun.font.attributevalues.defined_keysr java.lang.Integer‚†§˜Åá8 I valuexr java.lang.NumberÜ¨ï
+î‡ã  xp @ sr java.awt.font.TextAttributekxùå
+Ë
+F  xr /java.text.AttributedCharacterIterator$AttributeÅt&ÕG\ L nameq ~ xpt familyq ~ +sq ~ át weightsr java.lang.Float⁄Ì…¢€<Ï F valuexq ~ Ö@   xq ~ +xq ~ ,sq ~    w   sr desenho.linhas.PontoDeLinhaáTk“Àä∆‹  Z 
+IsTopOrBottonZ entrouI ladoI  posicaoL emq ~ L 	linhaDonat Ldesenho/linhas/Linha;L overDrawq ~ xq ~ 1        ´    Ê    sq ~     ˇ   pppsq ~ "         ´   Êsr diagramas.logico.LogicoLinhaz–∆{’sƒ Z setaAutomaticaL CardAt &Ldiagramas/logico/LogicoCardinalidade;L CardBq ~ ñxr desenho.linhas.SuperLinha£ºg5÷Î˜Æ 	Z 
+inteligenteZ 
+setaAbertaI 
+setaLarguraZ showConfigSetaZ 
+temSetaPontaAZ 
+temSetaPontaBL SetaAt Ljava/awt/Shape;L SetaBq ~ òL tagt !Ldesenho/preAnyDiagrama/PreTexto;xr desenho.linhas.Linha&¸ãl\˚É Z dashedF 
+fator_larguraF  larguraF 
+larguraBaseL Pontosq ~ [ PontosParaDesenhot [Ljava/awt/Point;[ pontosParaDesenhoXt [I[ pontosParaDesenhoYq ~ úxq ~      9   ´    Ê   …sq ~     ˇˇˇˇpppsq ~ "   9   …   ´   Êpsq ~ $   t Cursor em Forma de M√£osq ~     ˇ›››pppsq ~ (   A@        pq ~ +xq ~ ìpq ~ sq ~ -         *       psq ~    w   q ~ ísq ~ ê       n       q ~ ìsq ~ "        n  q ~ ùsq ~ $   q ~ °sq ~     ˇ›››pppsq ~ (   A@        pq ~ +xq ~ ìsq ~    w   sq ~ w     ¨  6    f   ñsq ~     Äˇ  pppsq ~ "   ¨   ñ  6   fpsq ~ $   q ~ &sq ~     ˇ›››pppsq ~ (   A@        sq ~ Å?@     w   
+   q ~ Ésq ~ Ñ @ q ~ âq ~ +q ~ ãsq ~ ç@   xq ~ +xq ~ ,sq ~    w   q ~ ¶xq ~ sq ~ -         
+       psq ~    w   sq ~ 0       .    ^    q ~ ,sq ~ "        .   ^q ~ ¨sq ~ $   t 'Cursor de Seta Que Aponta para Noroestesq ~     ˇ›››pppsq ~ (   A@        pq ~ +xq ~ ,pq ~ sq ~ -          sq ~ 
+              sq ~ 
+        sq ~ 0       Œ    ^    q ~ ,sq ~ "        Œ   ^q ~ ¨sq ~ $    t 'Cursor de Seta Que Aponta para Nordestesq ~     ˇ›››pppsq ~ (   A@        pq ~ +xq ~ ,pq ~ sq ~ -          sq ~ 
+             sq ~ 
+        sq ~ 0       Œ       q ~ ,sq ~ "        Œ  q ~ ¨sq ~ $   t &Cursor de Seta Que Aponta para Sudestesq ~     ˇ›››pppsq ~ (   A@        pq ~ +xq ~ ,pq ~ sq ~ -          sq ~ 
+             sq ~ 
+        sq ~ 0       .       q ~ ,sq ~ "        .  q ~ ¨sq ~ $   t 'Cursor de Seta Que Aponta para Sudoestesq ~     ˇ›››pppsq ~ (   A@        pq ~ +xq ~ ,pq ~ sq ~ -          sq ~ 
+             sq ~ 
+        sq ~ 0       ~    ^    q ~ ,sq ~ "        ~   ^q ~ ¨sq ~ $   t #Cursor de Seta Que Aponta para Cimasq ~     ˇ›››pppsq ~ (   A@        pq ~ +xq ~ ,pq ~ sq ~ -          sq ~ 
+             sq ~ 
+        sq ~ 0       Œ    π    q ~ ,sq ~ "        Œ   πq ~ ¨sq ~ $   
+t $Cursor de Seta Que Aponta √† Direitasq ~     ˇ›››pppsq ~ (   A@        pq ~ +xq ~ ,pq ~ sq ~ -          sq ~ 
+             sq ~ 
+        sq ~ 0       ~       q ~ ,sq ~ "        ~  q ~ ¨sq ~ $   	t $Cursor de Seta Que Aponta para Baixosq ~     ˇ›››pppsq ~ (   A@        pq ~ +xq ~ ,pq ~ sq ~ -          sq ~ 
+             sq ~ 
+        sq ~ 0       .    π    q ~ ,sq ~ "        .   πq ~ ¨sq ~ $   
+t %Cursor de Seta Que Aponta √† Esquerdasq ~     ˇ›››pppsq ~ (   A@        pq ~ +xq ~ ,pq ~ sq ~ -          sq ~ 
+              sq ~ 
+        x   F   
+ uq ~ r   q ~ ∏q ~ ¡q ~  q ~ ”q ~ ‹q ~ Âq ~ Óq ~ ˜t 
+Comentariossr util.DesenhadorDeTextoÎùVÉÀx 
+Z AlinharDireitaZ AlinharEsquerdaZ CentrarTextoHorizontalZ CentrarTextoVerticalZ LimitarAreaDePinturaI 	MaxHeigthI MaxWidthL CorretorPosicaoq ~ L Textoq ~ [ Textost [Ljava/lang/String;L fontq ~  xp         Isq ~ 
+       q ~ur [Ljava.lang.String;≠“VÁÈ{G  xp   q ~q ~ ±q ~ tsq ~ 
+  6   fsq ~ 
+  Ã   fsq ~ 
+  Ã  sq ~ 
+  6  sq ~ 
+  Å   fsq ~ 
+  Ã   ºsq ~ 
+  Å  sq ~ 
+  6   ºpq ~ t   ¨     6   f       ñ>Ä              q ~ ,sq ~     ˇÃÃÃpppsq ~     ˇ   ppp      	                                 ØQ } ¡Ì º-ˇˇˇˇˇ˛PØ   à               t 
+edt_campost edt_campos_tipot tabela.constraintt constraint.fkeyt constraint.keyt constraint.uniquesq ~    w   sr diagramas.logico.Campo#Íii„
+ I 
+DESCE_CAMPOI 
+SOBE_CAMPOZ UniqueZ fkeyZ keyZ 
+selecionadoZ 	separadorL areaq ~ L 
+complementoq ~ L 
+dicionarioq ~ L 
+observacaoq ~ L tabelat Ldiagramas/logico/Tabela;L textoq ~ L tipoq ~ xp   ˇˇˇˇ    sq ~ "      î  7   ~q ~ tq ~ tq ~ tq ~ ¨t id_comentarios t  INTEIROsq ~   ˇˇˇˇ    sq ~ "      î  7   îq ~ tq ~ tq ~ tq ~ ¨t fk_id_usuariost  INTEGERsq ~   ˇˇˇˇ    sq ~ "      î  7   ™q ~ tq ~ tq ~ tq ~ ¨t 
+comentario t  VARCHARsq ~   ˇˇˇˇ     sq ~ "      î  7   ¿q ~ tq ~ tq ~ tq ~ ¨t datat datesq ~   ˇˇˇˇ     sq ~ "      î  7   ÷q ~ tq ~ tq ~ tq ~ ¨t horaq ~&xsq ~    w   sr diagramas.logico.Constraint˝¯6\c
+ I 
+DESCE_CONSTANI SOBE_CONSTANI V_MOTIVO_CAMPO_REPI V_MOTIVO_CONS_ORIGEMI V_MOTIVO_KEY_AND_UNIQUEI V_MOTIVO_NAO_LIGADOI 
+V_MOTIVO_OKI V_MOTIVO_QTD_CMPI 
+V_MOTIVO_TIPOI motivoValidadeZ  nomeadaZ 
+selecionadoZ validadoL areaq ~ L camposDeDestinoq ~ L camposDeOrigemq ~ L constraintOrigemq ~ yL 
+ddlOnDeleteq ~ L 
+ddlOnUpdateq ~ L 
+dicionarioq ~ [ getMotivoValidadeq ~L  ligacaot Ldiagramas/logico/LogicoLinha;L nomeq ~ L 
+observacaoq ~ L tabelaq ~L tipot -Ldiagramas/logico/Constraint$CONSTRAINT_TIPO;xp ØQˇ˛PØ                            sq ~ "        7   sq ~    w   ppxsq ~    w   q ~q ~xpt  q ~6q ~6uq ~    t Validadat * sem IR de origemt 
+* qtd. campost * tipos de dadost * repeti√ß√£o de campot * informar liga√ß√£ot * PK √© sempre √öNICOpq ~6q ~6q ~ ¨~r +diagramas.logico.Constraint$CONSTRAINT_TIPO          xr java.lang.Enum          xpt tpPKxq ~#pt diagrama.Campo_Fkey.imgt diagrama.Campo_Key.imgt diagrama.Campo_KeyFkey.imgt diagrama.Constraint_UN.imgt diagrama.Constraint_UNFK.imgxq ~ sq ~ -          sq ~ 
+            ˇˇˇˇq ~ ¨q ~ ùpsq ~ ê       n       q ~ ìsq ~ "        n  q ~ ùsq ~ $   q ~ °sq ~     ˇ›››pppsq ~ (   A@        pq ~ +xq ~ ìpq ~ sq ~ -          sq ~ 
+              ˇˇˇˇpq ~ ùpsq ~ ê        ´       q ~ ìsq ~ "         ´  q ~ ùsq ~ $   q ~ °sq ~     ˇ›››pppsq ~ (   A@        pq ~ +xq ~ ìpq ~ sq ~ -          sq ~ 
+              ˇˇˇˇpq ~ ùpx ?Ä  ?Ä  ?Ä  sq ~    w   q ~ ¶q ~Jq ~Qq ~ íxur [Ljava.awt.Point;ßüH,Wd  xp   sq ~ 
+  q  sq ~ 
+  q  sq ~ 
+   Æ  sq ~ 
+   Æ   Èur [IM∫`&vÍ≤•  xp     q  q   Æ   Æuq ~_            È   
+ psr java.awt.geom.Path2D$DoubleYˆ‘˘6  xpw`1      
+P@e¿     @m      Q@f`     @m¿     Q@e¿     @m`     Q@e      @m¿     Q@e¿     @m      axpsr $diagramas.logico.LogicoCardinalidade5∞öˆ&|~  xr 'desenho.preAnyDiagrama.PreCardinalidadeesÕr64`Œ Z MovimentacaoManualZ TamanhoAutmaticoL Cardt 3Ldesenho/preAnyDiagrama/PreCardinalidade$TiposCard;L Fixot Ldesenho/linhas/PontoDeLinha;L  ligadoAq ~ ëL papelq ~ xr desenho.formas.FormaTextoBaseJóôÇOg2 Z centrarVerticalZ simplesDezenhoL 
+Alinhamentot 0Ldesenho/formas/FormaTextoBase$AlinhamentoTexto;xq ~         M      #sq ~     Äˇ  pppsq ~ "      #  M  psq ~ $   q ~ °sq ~     ˇ›››pppsq ~ (   A@        sq ~ Å?@     w   
+   q ~ Ésq ~ Ñ @ q ~ âq ~ +q ~ ãsq ~ ç@   xq ~ +xq ~ ìpq ~ sq ~ -          +       psq ~    w   sq ~ 0       E       q ~ ,sq ~ "        E  q ~jsq ~ $   q ~ ªsq ~     ˇ›››pppsq ~ (   A@        pq ~ +xq ~ ìpq ~ sq ~ -          sq ~ 
+              sq ~ 
+        sq ~ 0       r       q ~ ,sq ~ "        r  q ~jsq ~ $    q ~ ƒsq ~     ˇ›››pppsq ~ (   A@        pq ~ +xq ~ ìpq ~ sq ~ -          sq ~ 
+             sq ~ 
+        sq ~ 0       r   *    q ~ ,sq ~ "        r  *q ~jsq ~ $   q ~ Õsq ~     ˇ›››pppsq ~ (   A@        pq ~ +xq ~ ìpq ~ sq ~ -          sq ~ 
+             sq ~ 
+        sq ~ 0       E   *    q ~ ,sq ~ "        E  *q ~jsq ~ $   q ~ ÷sq ~     ˇ›››pppsq ~ (   A@        pq ~ +xq ~ ìpq ~ sq ~ -          sq ~ 
+             sq ~ 
+        sq ~ 0       [       q ~ ,sq ~ "        [  q ~jsq ~ $   q ~ ﬂsq ~     ˇ›››pppsq ~ (   A@        pq ~ +xq ~ ìpq ~ sq ~ -          sq ~ 
+             sq ~ 
+        sq ~ 0       r       q ~ ,sq ~ "        r  q ~jsq ~ $   
+q ~ Ësq ~     ˇ›››pppsq ~ (   A@        pq ~ +xq ~ ìpq ~ sq ~ -          sq ~ 
+             sq ~ 
+        sq ~ 0       [   *    q ~ ,sq ~ "        [  *q ~jsq ~ $   	q ~ Òsq ~     ˇ›››pppsq ~ (   A@        pq ~ +xq ~ ìpq ~ sq ~ -          sq ~ 
+             sq ~ 
+        sq ~ 0       E       q ~ ,sq ~ "        E  q ~jsq ~ $   
+q ~ ˙sq ~     ˇ›››pppsq ~ (   A@        pq ~ +xq ~ ìpq ~ sq ~ -          sq ~ 
+              sq ~ 
+        x   F     uq ~ r   q ~uq ~}q ~Öq ~çq ~ïq ~ùq ~•q ~≠t Cardinalidade_1sq ~      
+   sq ~ 
+        t (1,1)uq ~   q ~πq ~oq ~6pppppppppq ~6 ~r .desenho.formas.FormaTextoBase$AlinhamentoTexto          xq ~@t alCentro ~r 1desenho.preAnyDiagrama.PreCardinalidade$TiposCard          xq ~@t C11q ~ ¶q ~ ùq ~6sq ~d         ä       #sq ~     Äˇ  pppsq ~ "      #   ä   psq ~ $   q ~ °sq ~     ˇ›››pppsq ~ (   A@        sq ~ Å?@     w   
+   q ~ Ésq ~ Ñ @ q ~ âq ~ +q ~ ãsq ~ ç@   xq ~ +xq ~ ìpq ~ sq ~ -          ,       psq ~    w   sq ~ 0        Ç    Á    q ~ ,sq ~ "         Ç   Áq ~¡sq ~ $   q ~ ªsq ~     ˇ›››pppsq ~ (   A@        pq ~ +xq ~ ìpq ~ sq ~ -          sq ~ 
+              sq ~ 
+        sq ~ 0        Ø    Á    q ~ ,sq ~ "         Ø   Áq ~¡sq ~ $    q ~ ƒsq ~     ˇ›››pppsq ~ (   A@        pq ~ +xq ~ ìpq ~ sq ~ -          sq ~ 
+             sq ~ 
+        sq ~ 0        Ø        q ~ ,sq ~ "         Ø   q ~¡sq ~ $   q ~ Õsq ~     ˇ›››pppsq ~ (   A@        pq ~ +xq ~ ìpq ~ sq ~ -          sq ~ 
+             sq ~ 
+        sq ~ 0        Ç        q ~ ,sq ~ "         Ç   q ~¡sq ~ $   q ~ ÷sq ~     ˇ›››pppsq ~ (   A@        pq ~ +xq ~ ìpq ~ sq ~ -          sq ~ 
+             sq ~ 
+        sq ~ 0        ò    Á    q ~ ,sq ~ "         ò   Áq ~¡sq ~ $   q ~ ﬂsq ~     ˇ›››pppsq ~ (   A@        pq ~ +xq ~ ìpq ~ sq ~ -          sq ~ 
+             sq ~ 
+        sq ~ 0        Ø    Û    q ~ ,sq ~ "         Ø   Ûq ~¡sq ~ $   
+q ~ Ësq ~     ˇ›››pppsq ~ (   A@        pq ~ +xq ~ ìpq ~ sq ~ -          sq ~ 
+             sq ~ 
+        sq ~ 0        ò        q ~ ,sq ~ "         ò   q ~¡sq ~ $   	q ~ Òsq ~     ˇ›››pppsq ~ (   A@        pq ~ +xq ~ ìpq ~ sq ~ -          sq ~ 
+             sq ~ 
+        sq ~ 0        Ç    Û    q ~ ,sq ~ "         Ç   Ûq ~¡sq ~ $   
+q ~ ˙sq ~     ˇ›››pppsq ~ (   A@        pq ~ +xq ~ ìpq ~ sq ~ -          sq ~ 
+              sq ~ 
+        x   F     uq ~ r   q ~Ãq ~‘q ~‹q ~‰q ~Ïq ~Ùq ~¸q ~t Cardinalidade_2sq ~      
+   sq ~ 
+        t (1,n)uq ~   q ~q ~∆q ~6pppppppppq ~6 q ~º ~q ~æt C1Nq ~ íq ~ ùq ~6sq ~ $   q ~ °sq ~     ˇ›››pppsq ~ (   A@        pq ~ +xq ~ ìsq ~    w   q ~ {xq ~ sq ~ -          sq ~ 
+            ˇˇˇˇq ~ {q ~ ùpxq ~ sq ~ -                psq ~    w   sq ~ 0        A    J    q ~ ,sq ~ "         A   Jq ~ {sq ~ $   t 'Cursor de Seta Que Aponta para Noroestesq ~     ˇ›››pppsq ~ (   A@        pq ~ +xq ~ ,pq ~ sq ~ -          sq ~ 
+              sq ~ 
+        sq ~ 0        ·    J    q ~ ,sq ~ "         ·   Jq ~ {sq ~ $    t 'Cursor de Seta Que Aponta para Nordestesq ~     ˇ›››pppsq ~ (   A@        pq ~ +xq ~ ,pq ~ sq ~ -          sq ~ 
+             sq ~ 
+        sq ~ 0        ·    Í    q ~ ,sq ~ "         ·   Íq ~ {sq ~ $   t &Cursor de Seta Que Aponta para Sudestesq ~     ˇ›››pppsq ~ (   A@        pq ~ +xq ~ ,pq ~ sq ~ -          sq ~ 
+   ¸   ‡     sq ~ 
+   ¸   ısq ~ 0        A    Í    q ~ ,sq ~ "         A   Íq ~ {sq ~ $   t 'Cursor de Seta Que Aponta para Sudoestesq ~     ˇ›››pppsq ~ (   A@        pq ~ +xq ~ ,pq ~ sq ~ -          sq ~ 
+             sq ~ 
+        sq ~ 0        ë    J    q ~ ,sq ~ "         ë   Jq ~ {sq ~ $   t #Cursor de Seta Que Aponta para Cimasq ~     ˇ›››pppsq ~ (   A@        pq ~ +xq ~ ,pq ~ sq ~ -          sq ~ 
+             sq ~ 
+        sq ~ 0        ·    ö    q ~ ,sq ~ "         ·   öq ~ {sq ~ $   
+t $Cursor de Seta Que Aponta √† Direitasq ~     ˇ›››pppsq ~ (   A@        pq ~ +xq ~ ,pq ~ sq ~ -          sq ~ 
+             sq ~ 
+        sq ~ 0        ë    Í    q ~ ,sq ~ "         ë   Íq ~ {sq ~ $   	t $Cursor de Seta Que Aponta para Baixosq ~     ˇ›››pppsq ~ (   A@        pq ~ +xq ~ ,pq ~ sq ~ -          sq ~ 
+   ´   ‰     sq ~ 
+   ©   ¯sq ~ 0        A    ö    q ~ ,sq ~ "         A   öq ~ {sq ~ $   
+t %Cursor de Seta Que Aponta √† Esquerdasq ~     ˇ›››pppsq ~ (   A@        pq ~ +xq ~ ,pq ~ sq ~ -          sq ~ 
+              sq ~ 
+        x   F   
+ uq ~ r   q ~q ~%q ~.q ~7q ~@q ~Iq ~Rq ~[t usuariossq ~         0sq ~ 
+       q ~euq ~   q ~eq ~ Äq ~ tsq ~ 
+   I   Rsq ~ 
+   ﬂ   Rsq ~ 
+   ﬂ   Ësq ~ 
+   I   Ësq ~ 
+   î   Rsq ~ 
+   ﬂ   ùsq ~ 
+   î   Ësq ~ 
+   I   ùpq ~ t   ñ      I   R       ñ>Ä              q ~ ,sq ~     ˇÃÃÃpppsq ~     ˇ   ppp      	                                 ØQ } ¡Ì º-ˇˇˇˇˇ˛PØ   r               q ~q ~q ~q ~q ~q ~sq ~    w   sq ~   ˇˇˇˇ    sq ~ "      î   J   jq ~ tq ~ tq ~ tq ~ {t id_usuarios q ~sq ~   ˇˇˇˇ     sq ~ "      î   J   Äq ~ tq ~ tq ~ tq ~ {t nomeq ~&sq ~   ˇˇˇˇ     sq ~ "      î   J   ñq ~ tq ~ tq ~ tq ~ {t emailt  VARCHARsq ~   ˇˇˇˇ     sq ~ "      î   J   ¨q ~ tq ~ tq ~ tq ~ {t senha t  VARCHARxsq ~    w   sq ~/ ØQˇ˛PØ                            sq ~ "         J   ∆sq ~    w   pxsq ~    w   q ~txpq ~6q ~6q ~6uq ~    q ~8q ~9q ~:q ~;q ~<q ~=q ~>pq ~6q ~6q ~ {q ~Asq ~/ ØQˇ˛PØ                            sq ~ "         b   ∆sq ~    w   sq ~   ˇˇˇˇ   sq ~ "      î   J   ¬q ~6q ~6q ~6q ~ {t Campoq ~6xsq ~    w   pxpq ~6q ~6q ~6uq ~    q ~8q ~9q ~:q ~;q ~<q ~=q ~>pq ~6q ~6q ~ {~q ~?t tpFKxppq ~Cq ~Dq ~Eq ~Fq ~Gq ~ ¨q ~ ùq ~jq ~¡xsq ~ 
+       nur [Ljava.lang.Class;´◊ÆÀÕZô  xp    sq ~ (   A@        pq ~ +xq ~ ,q ~ sq ~     w    xsq ~    
+w   
+t 
+cmdDesenhadort 
+cmdLegendat cmdTextot 	cmdApagart 	cmdTabelat cmdCampot cmdCampo_Keyt 
+cmdCampo_Fkeyt cmdCampo_KeyFkeyt cmdLogicoLinhaxpq ~ ,sq ~     ˇ ˇ pppsq ~    w   q ~ {q ~ ùq ~ ¨q ~ q ~jq ~¡xsr desenho.AncoradoriÕØ¡£CIt L Regiaoq ~ òL 
+ancorasCodeq ~ L areasq ~ xq ~         /    R    sq ~     ˇˇˇˇpppsq ~ "         /   Rpsq ~ $   q ~ &sq ~     ˇ›››pppsq ~ (   A@        pq ~ +xq ~ ,pq ~ sq ~ -      ˇˇˇˇ       psq ~     w    xpsq ~    w   sq ~ Ñ    sq ~ Ñ   sq ~ Ñ   sq ~ Ñ   sq ~ Ñ   sq ~ Ñ    sq ~ Ñ   sq ~ Ñ   	xsq ~    w   sq ~ "         /   Rsq ~ "         /   fsq ~ "         /   zsq ~ "         /   ésq ~ "         /   ¢sq ~ "         /   ∂sq ~ "         /    sq ~ "         /   ﬁx~r #controlador.Diagrama$TipoDeDiagrama          xq ~@t tpLogicot 3.0.0t 3.1.0t 3t 2t 0   V   †   P º- } ¡Ìt logico.cov_fisicoq ~q ~t orgtabuq ~ì   vq ~vq ~ wvq ~ ïvr diagramas.conceitual.Textoåp0ûÉãË Z MovimentacaoManualL 
+LinhaMestret Ldesenho/linhas/SuperLinha;xr desenho.preAnyDiagrama.PreTextojF•7œˇ F alfaZ autosizeI gdirecaoZ 	gradienteZ gradientePinteDetalheZ 
+paintTituloI 
+roundRectSizeZ sombraL Tipot +Ldesenho/preAnyDiagrama/PreTexto$TipoTexto;L 	corSombraq ~ L gradienteCorDetalheq ~ L gradienteEndColorq ~ L gradienteStartColorq ~ L tituloq ~ xq ~hvr desenho.formas.Desenhador£\oàÏ2B I  TIPODEZI  TIPOIMGI TIPOSETAF alfaI 
+anguloSetaI  desvioXI  desvioYI 
+setaLarguraZ setaPontaDireitaZ setaPontaEsquerdaZ simplesDezenhoI tipoL Itensq ~ [ 	byteImaget [BL  imgNameq ~ L  setaCorq ~ xq ~ vr desenho.formas.Legendaˆ1Ê∂è≥ﬁÈ I alturaI alturaTituloL 
+BorderColorq ~ L Itensq ~ L tipot $Ldesenho/formas/Legenda$TipoLegenda;xq ~ sr diagramas.logico.DataBaseModel˝¯©˙Ω
+ L 	dataTypesq ~ L dataTypesToJavat Ljava/util/HashMap;L 	descricaoq ~ L nomeq ~ L 
+reservedWordsq ~ L versaoq ~ xpsq ~    w   t BITt BLOBt  BOOLEANt CHARt 	CHARACTERt CLOBt DATEt  DECIMALt DOUBLEt FLOATq ~"t NCHARt  NUMERICt REALt SMALLINTt TIMEt 	TIMESTAMPq ~&t XMLxsr java.util.HashMap ⁄¡√`— F 
+loadFactorI 	thresholdxp?@     w       q ~›t byte[]q ~Ât floatq ~Át intq ~·t byteq ~ﬂt charq ~„t doubleq ~Ít Dateq ~‹t shortq ~ﬁt  booleanq ~Êt Stringq ~‚q ~ıq ~Ït org.w3c.dom.Documentq ~Èq ~ˆq ~Îq ~ıq ~Ëq ~Ùq ~&q ~¯q ~‡q ~¯q ~‰q ~Ùq ~"q ~Òxt )Copiado de sites na internet - 15/04/2017t SQL Ansi 2011 - w3csq ~   Vw  Vt ABSt ALLt ALLOCATEt ALTERt ANDt ANYt AREt ARRAYt 	ARRAY_AGGt ASt 
+ASENSITIVEt 
+ASYMMETRICt ATt ATOMICt 
+AUTHORIZATIONt AVGt BEGINt  BETWEENt BIGINTt BINARYq ~›q ~ﬁt BOTHt BYt CALLt CALLEDt 
+CARDINALITYt CASCADEDt CASEt CASTt CEILt  CEILINGq ~ﬂt 
+CHAR_LENGTHq ~‡t CHARACTER_LENGTHt CHECKq ~·t CLOSEt COALESCEt  COLLATEt  COLLECTt COLUMNt COMMITt 	CONDITIONt  CONNECTt 
+CONSTRAINTt  CONVERTt CORRt 
+CORRESPONDINGt COUNTt 	COVAR_POPt 
+COVAR_SAMPt CREATEt CROSSt CUBEt 	CUME_DISTt  CURRENTt CURRENT_CATALOGt CURRENT_DATEt CURRENT_DEFAULT_TRANSFORM_GROUPt CURRENT_PATHt CURRENT_ROLEt CURRENT_SCHEMAt CURRENT_TIMEt CURRENT_TIMESTAMPt  CURRENT_TRANSFORM_GROUP_FOR_TYPEt CURRENT_USERt CURSORt CYCLEt DATALINKq ~‚t DAYt 
+DEALLOCATEt DECq ~„t  DECLAREt  DEFAULTt DELETEt 
+DENSE_RANKt DEREFt DESCRIBEt 
+DETERMINISTICt 
+DISCONNECTt DISTINCTt 	DLNEWCOPYt DLPREVIOUSCOPYt 
+DLURLCOMPLETEt DLURLCOMPLETEONLYt DLURLCOMPLETEWRITEt 	DLURLPATHt 
+DLURLPATHONLYt DLURLPATHWRITEt 
+DLURLSCHEMEt 
+DLURLSERVERt  DLVALUEq ~‰t DROPt  DYNAMICt EACHt  ELEMENTt ELSEt ENDt END-EXECt ESCAPEt EVERYt EXCEPTt EXECt  EXECUTEt EXISTSt EXPt EXTERNALt  EXTRACTt FALSEt FETCHt FILTERt 
+FIRST_VALUEq ~Ât FLOORt FORt 
+FOREIGN KEYt  FOREIGNt FREEt FROMt FULLt FUNCTIONt FUSIONt GETt GLOBALt GRANTt GROUPt GROUPINGt HAVINGt HOLDt HOURt IDENTITYt IMPORTt INt 	INDICATORt INNERt INOUTt 
+INSENSITIVEt INSERTt INTq ~"t 	INTERSECTt INTERSECTIONt INTERVALt INTOt ISt JOINt LAGt LANGUAGEt LARGEt 
+LAST_VALUEt  LATERALt LEADt  LEADINGt LEFTt LIKEt 
+LIKE_REGEXt LNt LOCALt 	LOCALTIMEt LOCALTIMESTAMPt LOWERt MATCHt MAXt MAX_CARDINALITYt MEMBERt MERGEt METHODt MINt MINUTEt MODt MODIFIESt MODULEt MONTHt MULTISETt NATIONALt  NATURALq ~Êt NCLOBt NEWt NOt NONEt 	NORMALIZEt NOTt 	NTH_VALUEt NTILEt NULLt NULLIFq ~Át OCCURRENCES_REGEXt OCTET_LENGTHt OFt OFFSETt OLDt ONt ONLYt OPENt ORt ORDERt OUTt OUTERt OVERt OVERLAPSt  OVERLAYt 	PARAMETERt 	PARTITIONt PERCENT_RANKt PERCENTILE_CONTt PERCENTILE_DISCt POSITIONt POSITION_REGEXt POWERt 	PRECISIONt  PREPAREt 
+PRIMARY KEYt  PRIMARYt 	PROCEDUREt RANGEt RANKt READSq ~Ët 	RECURSIVEt REFt 
+REFERENCESt 
+REFERENCINGt 	REGR_AVGXt 	REGR_AVGYt 
+REGR_COUNTt REGR_INTERCEPTt  REGR_R2t 
+REGR_SLOPEt REGR_SXXt REGR_SXYt REGR_SYYt  RELEASEt RESULTt RETURNt  RETURNSt REVOKEt RIGHTt ROLLBACKt ROLLUPt ROWt 
+ROW_NUMBERt ROWSt 	SAVEPOINTt SCOPEt SCROLLt SEARCHt SECONDt SELECTt 	SENSITIVEt SESSION_USERt SETt  SIMILARq ~Èt SOMEt SPECIFICt SPECIFICTYPEt SQLt SQLEXCEPTIONt SQLSTATEt 
+SQLWARNINGt SQRTt STARTt STATICt 
+STDDEV_POPt 
+STDDEV_SAMPt 
+SUBMULTISETt 	SUBSTRINGt SUBSTRING_REGEXt SUMt 	SYMMETRICt SYSTEMt 
+SYSTEM_USERt TABLEt 
+TABLESAMPLEt THENq ~Íq ~Ît 
+TIMEZONE_HOURt TIMEZONE_MINUTEt TOt TRAILINGt 	TRANSLATEt TRANSLATE_REGEXt 
+TRANSLATIONt TREATt  TRIGGERt TRIMt 
+TRIM_ARRAYt TRUEt TRUNCATEt  UESCAPEt UNIONt UNIQUEt  UNKNOWNt UNNESTt UPDATEt UPPERt USERt USINGt VALUEt VALUESt  VAR_POPt VAR_SAMPt 	VARBINARYq ~&t  VARYINGt WHENt WHENEVERt WHEREt WIDTH_BUCKETt WINDOWt WITHt WITHINt  WITHOUTq ~Ït XMLAGGt 
+XMLATTRIBUTESt 	XMLBINARYt  XMLCASTt 
+XMLCOMMENTt 	XMLCONCATt 
+XMLDOCUMENTt 
+XMLELEMENTt 	XMLEXISTSt 	XMLFORESTt 
+XMLITERATEt 
+XMLNAMESPACESt XMLPARSEt XMLPIt XMLQUERYt XMLSERIALIZEt XMLTABLEt  XMLTEXTt 
+XMLVALIDATEt YEARxt 1.0.0q ~ tt ;t 1.0.0t 3.2.0

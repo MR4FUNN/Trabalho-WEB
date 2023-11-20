@@ -1,0 +1,283 @@
+A¬í sr "controlador.apoios.GuardaPadraoBrMÌ*«¨;Ö L Tagt Ljava/lang/String;L autorq ~ L dataq ~ [ diagramat [BL versaoq ~ L versaoDiagramaq ~ xpt 3.2.0t Carlos Henrique CÃ¢ndidot 
+13-02-2012ur [B¬óøTà  xp  ©x¬í sr 'diagramas.conceitual.DiagramaConceitualÊÄ"
+Íüa  I ATAGI 
+EDITOR_ATTRL 	COMM_CONVt Ljava/lang/String;L 
+COMM_EDT_ATTRq ~ [ classesDoDiagramat [Ljava/lang/Class;xr controlador.Diagrama  JÔó$Ù I  TotalIDI _tickI 	baseRecuoZ  dragingI heigthZ 
+isMouseDownZ mudouZ realceI widthD zoomL DiagramaDownPost Ljava/awt/Point;L ListaDeItenst Ljava/util/ArrayList;L 
+ScrPosicaoq ~ [ classesDoDiagramaq ~ L fontt Ljava/awt/Font;L 	foreColort Ljava/awt/Color;L infoDiagramat Ldesenho/FormaElementar;L itensSelecionadosq ~ L meusComandosq ~ L overDrawq ~ L pontoCorq ~  L pontoCorMultSelq ~  L subItensq ~ L superAncoradort Ldesenho/Ancorador;L tipot %Lcontrolador/Diagrama$TipoDeDiagrama;L v300q ~ L v310q ~ L  versaoAq ~ L  versaoBq ~ L  versaoCq ~ xp   *   4            ?ğ      sr java.awt.Point¶ÄŠr4~È& I xI yxp  L  ©sr java.util.ArrayListxÒ™Ça I sizexp   w   sr controlador.apoios.InfoDiagrama9•ĞÚËİ‘F I 
+alinhamento_hI 
+alinhamento_vL  autoresq ~ L diagramaUniversalUnicIDq ~ L realDiagramaUniversalUnicIDq ~ xr desenho.formas.FormaÅóSşè2a I CONST_ORG_DIAGI 
+INI_ORGDIAGZ 	editFonteZ needRecalPtsZ nodicZ 
+showOrgDiag[ Pontost [Ldesenho/PontoElementar;L Textoq ~ L TextoFormatadot Lutil/DesenhadorDeTexto;L 
+observacaoq ~ L 
+pontoPosi0q ~ L 
+pontoPosi1q ~ L 
+pontoPosi2q ~ L 
+pontoPosi3q ~ L 
+pontoPosi4q ~ L 
+pontoPosi5q ~ L 
+pontoPosi6q ~ L 
+pontoPosi7q ~ L 	principalt Ldesenho/formas/Forma;L textoAdicionalq ~ xr desenho.FormaElementarñª•²sƒY 
+Z AceitaAjusteAutmaticoI IDZ PontosIsHideZ SelecionavelZ ancoradoI 
+distSelecaoZ 	raiseMudaZ 
+selecionadoZ snDisablePaintedL propriedadesAdicinaisq ~ L subItenst Ljava/util/List;xr desenho.Elementar  x×Sé9 Z canBeDeletedZ canPaintZ 	destruidoZ disablePaintedI heightI leftZ 	stopRaizeI topZ  visibleI widthL 	backColorq ~  L clientRectanglet Ljava/awt/Rectangle;L  criadorq ~ L cursort Ljava/awt/Cursor;L 
+disabledColorq ~  L fontq ~ L 	foreColorq ~  L 	listenersq ~ L mastert Lcontrolador/Diagrama;L sizet Ljava/awt/Dimension;xp     –          ,sr java.awt.Color¥ƒ3u F falphaI valueL cst Ljava/awt/color/ColorSpace;[ 	frgbvaluet [F[ fvalueq ~ xp    €ÿ  pppsr java.awt.RectangleÃ°jÊjt I heightI widthI xI yxp   –  ,      psr java.awt.Cursoroj w÷  I typeL nameq ~ xp   t Cursor em Forma de MÃ£osq ~     ÿİİİpppsr 
+java.awt.FontÅ¡5æÌŞVs I fontSerializedDataVersionF 	pointSizeI sizeI styleL fRequestedAttributest Ljava/util/Hashtable;L nameq ~ xp   A@        pt Arialxsq ~     ÿ   ppppq ~ 
+sr java.awt.DimensionAÙ×¬_D I heightI widthxp                 psq ~    w   sr desenho.formas.PontoDeFormaü°6új˜÷¦ Z 
+AllwaysHideZ 
+isMouseDownI  posicaoL downq ~ xr desenho.PontoElementarm"³³Qî` Z isHideI recuoL  inidownq ~ xq ~                   q ~ +sq ~ !              q ~ sq ~ #   q ~ %sq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,          sq ~           ÿÿÿÿsq ~         sq ~ /                  q ~ +sq ~ !              q ~ sq ~ #   q ~ %sq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,          sq ~           ÿÿÿÿsq ~         sq ~ /                  q ~ +sq ~ !              q ~ sq ~ #   q ~ %sq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,          sq ~           ÿÿÿÿsq ~         sq ~ /                  q ~ +sq ~ !              q ~ sq ~ #   q ~ %sq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,          sq ~           ÿÿÿÿsq ~         sq ~ /                  q ~ +sq ~ !              q ~ sq ~ #   q ~ %sq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,          sq ~           ÿÿÿÿsq ~         sq ~ /                  q ~ +sq ~ !              q ~ sq ~ #   q ~ %sq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,          sq ~           ÿÿÿÿsq ~         sq ~ /                  q ~ +sq ~ !              q ~ sq ~ #   q ~ %sq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,          sq ~           ÿÿÿÿsq ~         sq ~ /                  q ~ +sq ~ !              q ~ sq ~ #   q ~ %sq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,          sq ~           ÿÿÿÿsq ~         x   F     ur [Ldesenho.PontoElementar;(6Ò„„É  xp   q ~ 1q ~ 9q ~ Aq ~ Iq ~ Qq ~ Yq ~ aq ~ it  pq ~ spppppppppq ~ s   <   2q ~ st C889-7-57DC-49-1ED0-BF-98q ~ tsr diagramas.conceitual.Entidade^×&øÚÔü  xr "desenho.preAnyDiagrama.PreEntidadeWwqŞu »[ I CODE_EDT_ATRI CONST_DO_ORGATTRI 
+EDITOR_ATTRZ mudouAtributosL 
+COMM_EDT_ATTRq ~ L atributosOcultosq ~ xr desenho.formas.FormaRetangularƒ
+P€!×  xq ~      :  @    ¿   xsq ~     €ÿ  pppsq ~ !   :   x  @   ¿psq ~ #   q ~ %sq ~     ÿİİİpppsq ~ '   A@        sr java.util.Hashtable»%!Jä¸ F 
+loadFactorI 	thresholdxp?@     w   
+   t $sun.font.attributevalues.defined_keysr java.lang.Integerâ ¤÷‡8 I valuexr java.lang.Number†¬•
+”à‹  xp @ sr java.awt.font.TextAttributekxŒ
+è
+F  xr /java.text.AttributedCharacterIterator$Attributet&ÍG\ L nameq ~ xpt weightsr java.lang.FloatÚíÉ¢Û<ğì F valuexq ~ ‚@   sq ~ „t familyq ~ *xq ~ *xq ~ +sq ~    w   sr desenho.linhas.PontoDeLinha‡TkÒËŠÆÜ  Z 
+IsTopOrBottonZ entrouI ladoI  posicaoL emq ~ L 	linhaDonat Ldesenho/linhas/Linha;L overDrawq ~ xq ~ 0           »    q ~ +sq ~ !           »sr diagramas.conceitual.LigacaoÍ0qC,{  xr !desenho.preAnyDiagrama.PreLigacao@—í0œ¥} L Cardt )Ldesenho/preAnyDiagrama/PreCardinalidade;xr desenho.linhas.SuperLinha£¼g5Öë÷® 	Z 
+inteligenteZ 
+setaAbertaI 
+setaLarguraZ showConfigSetaZ 
+temSetaPontaAZ 
+temSetaPontaBL SetaAt Ljava/awt/Shape;L SetaBq ~ •L tagt !Ldesenho/preAnyDiagrama/PreTexto;xr desenho.linhas.Linha&ü‹l\ûƒ Z dashedF 
+fator_larguraF  larguraF 
+larguraBaseL Pontosq ~ [ PontosParaDesenhot [Ljava/awt/Point;[ pontosParaDesenhoXt [I[ pontosParaDesenhoYq ~ ™xq ~      !      ®   ˜sq ~     ÿÿÿÿpppsq ~ !   !   ˜     ®psq ~ #   q ~ %sq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,                psq ~    w   sq ~        0    É    q ~ +sq ~ !        0   Éq ~ šsq ~ #   q ~ %sq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +sq ~    w   sr #diagramas.conceitual.RelacionamentoœCÆÌ€  xr (desenho.preAnyDiagrama.PreRelacionamentoúúp‘Šü» I CONST_DO_ORGATTRZ mudouAtributosxr desenho.formas.FormaLosangularzå;Ü‘C‹ [ 
+SubPointosq ~ ˜xr %desenho.formas.FormaNaoRetangularBaseq©Ğ‡½ ,Ç L Regiaoq ~ •L Tipot 4Ldesenho/formas/FormaNaoRetangularBase$TipoDePontos;L  direcaot /Ldesenho/formas/FormaNaoRetangularBase$Direcao;xq ~      2      Ã   –sq ~     €ÿ  pppsq ~ !   2   –     Ãpsq ~ #   q ~ %sq ~     ÿİİİpppsq ~ '   A@        sq ~ ~?@     w   
+   q ~ €sq ~  @ q ~ †sq ~ ˆ@   q ~ Šq ~ *xq ~ *xq ~ +sq ~    w   q ~ ¢sq ~        I    À    q ~ +sq ~ !        I   Àsq ~ ‘     N  I    ²   «q ~ ›sq ~ !   N   «  I   ²psq ~ #   q ~ %sq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,                 psq ~    w   q ~ ¸sq ~        î    ô    q ~ +sq ~ !        î   ôq ~ ºsq ~ #   q ~ %sq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +sq ~    w   sq ~ u     :  Ô    ½   xsq ~     €ÿ  pppsq ~ !   :   x  Ô   ½psq ~ #   q ~ %sq ~     ÿİİİpppsq ~ '   A@        sq ~ ~?@     w   
+   q ~ €sq ~  @ q ~ †sq ~ ˆ@   q ~ Šq ~ *xq ~ *xq ~ +sq ~    w   q ~ Ásq ~        @    ¹    q ~ +sq ~ !        @   ¹sq ~ ‘     !  @       q ~ ›sq ~ !   !     @   psq ~ #   q ~ %sq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,         #       psq ~    w   q ~ Ñsq ~        I        q ~ +sq ~ !        I   q ~ Ósq ~ #   q ~ %sq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +sq ~    w   sr diagramas.conceitual.Atributo·‚ à¤ I CONST_DO_ORGATTRI 
+cardMaximaI 
+cardMinimaZ 
+multivaloradoL tipoAtributoq ~ xr "desenho.preAnyDiagrama.PreAtributoc
+rÏá´, Z autosizeZ 
+identificadorZ opcionalxq ~ «       M    š   Ssq ~     €ÿ  pppsq ~ !      S  M   špsq ~ #   q ~ %sq ~     ÿİİİpppsq ~ '   A@        sq ~ ~?@     w   
+   q ~ €sq ~  @ q ~ †sq ~ ˆ@   q ~ Šq ~ *xq ~ *xq ~ +sq ~    w   q ~ Úxq ~ 
+sq ~ ,          "       psq ~    w   sq ~ /       E    ’    q ~ +sq ~ !        E   ’q ~ âsq ~ #   t 'Cursor de Seta Que Aponta para Noroestesq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,          sq ~               sq ~         sq ~ /       ¢    ’    q ~ +sq ~ !        ¢   ’q ~ âsq ~ #    t 'Cursor de Seta Que Aponta para Nordestesq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,          sq ~              sq ~         sq ~ /       ¢    ª    q ~ +sq ~ !        ¢   ªq ~ âsq ~ #   t &Cursor de Seta Que Aponta para Sudestesq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,          sq ~              sq ~         sq ~ /       E    ª    q ~ +sq ~ !        E   ªq ~ âsq ~ #   t 'Cursor de Seta Que Aponta para Sudoestesq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,          sq ~              sq ~         sq ~ /       s    ’    q ~ +sq ~ !        s   ’q ~ âsq ~ #   t #Cursor de Seta Que Aponta para Cimasq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,          sq ~              sq ~         sq ~ /       ¢        q ~ +sq ~ !        ¢   q ~ âsq ~ #   
+t $Cursor de Seta Que Aponta Ã  Direitasq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,          sq ~              sq ~         sq ~ /       s    ª    q ~ +sq ~ !        s   ªq ~ âsq ~ #   	t $Cursor de Seta Que Aponta para Baixosq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,          sq ~              sq ~         sq ~ /       E        q ~ +sq ~ !        E   q ~ âsq ~ #   
+t %Cursor de Seta Que Aponta Ã  Esquerdasq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,          sq ~               sq ~         x   F       uq ~ q   q ~ îq ~ ÷q ~ q ~	q ~q ~q ~$q ~-t 
+id_produtosr util.DesenhadorDeTextoëVƒËx 
+Z AlinharDireitaZ AlinharEsquerdaZ CentrarTextoHorizontalZ CentrarTextoVerticalZ LimitarAreaDePinturaI 	MaxHeigthI MaxWidthL CorretorPosicaoq ~ L Textoq ~ [ Textost [Ljava/lang/String;L fontq ~ xp        <sq ~         q ~7ur [Ljava.lang.String;­ÒVçé{G  xp   q ~7q ~ çq ~ ssq ~   M   šsq ~       šsq ~       ¨sq ~   M   ¨sq ~       ¡q ~Bq ~Bsq ~   M   ¡pq ~ ssq ~ !      S  M   š~r 2desenho.formas.FormaNaoRetangularBase$TipoDePontos          xr java.lang.Enum          xpt 	tp2Pontos~r -desenho.formas.FormaNaoRetangularBase$Direcao          xq ~Ft Left     {ÿÿÿÿ    q ~ sxq ~ 
+sq ~ ,          sq ~              ÿÿÿÿq ~ âq ~ Ópsq ~        @        q ~ +sq ~ !        @   q ~ Ósq ~ #   q ~ %sq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,          sq ~               ÿÿÿÿpq ~ Ópx ?€  ?€  ?€  sq ~    w   q ~ Úq ~Nq ~ Ñxur [Ljava.awt.Point;§ŸH,Wd  xp   sq ~   L   ¡sq ~   C   ¡sq ~   C   ¼ur [IMº`&vê²¥  xp     L  C  Cuq ~[      ¡   ¡   ¼   
+  ppppsq ~ #   q ~ %sq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +sq ~    w   q ~ Çxq ~ 
+sq ~ ,          sq ~             ÿÿÿÿq ~ Çq ~ Ópsq ~        I    ×    q ~ +sq ~ !        I   ×sq ~ ‘       I    ×   Aq ~ ›sq ~ !      A  I   ×psq ~ #   q ~ %sq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,         %       psq ~    w   q ~dsq ~        „    ×    q ~ +sq ~ !        „   ×q ~fsq ~ #   q ~ %sq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +sq ~    w   sq ~ à       ˆ    Ó   2sq ~     €ÿ  pppsq ~ !      2  ˆ   Ópsq ~ #   q ~ %sq ~     ÿİİİpppsq ~ '   A@        sq ~ ~?@     w   
+   q ~ €sq ~  @ q ~ †sq ~ ˆ@   q ~ Šq ~ *xq ~ *xq ~ +sq ~    w   q ~mxq ~ 
+sq ~ ,          $       psq ~    w   sq ~ /       €    Ë    q ~ +sq ~ !        €   Ëq ~ssq ~ #   q ~ ñsq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,          sq ~               sq ~         sq ~ /       ¼    Ë    q ~ +sq ~ !        ¼   Ëq ~ssq ~ #    q ~ úsq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,          sq ~              sq ~         sq ~ /       ¼    ã    q ~ +sq ~ !        ¼   ãq ~ssq ~ #   q ~sq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,          sq ~              sq ~         sq ~ /       €    ã    q ~ +sq ~ !        €   ãq ~ssq ~ #   q ~sq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,          sq ~              sq ~         sq ~ /           Ë    q ~ +sq ~ !           Ëq ~ssq ~ #   q ~sq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,          sq ~              sq ~         sq ~ /       ¼    ×    q ~ +sq ~ !        ¼   ×q ~ssq ~ #   
+q ~sq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,          sq ~              sq ~         sq ~ /           ã    q ~ +sq ~ !           ãq ~ssq ~ #   	q ~'sq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,          sq ~              sq ~         sq ~ /       €    ×    q ~ +sq ~ !        €   ×q ~ssq ~ #   
+q ~0sq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,          sq ~               sq ~         x   F       uq ~ q   q ~q ~‡q ~q ~—q ~Ÿq ~§q ~¯q ~·t valorsq ~8        sq ~         q ~Àuq ~<   q ~Àq ~xq ~ ssq ~   ˆ   Ósq ~   º   Ósq ~   º   ásq ~   ˆ   ásq ~   º   Úq ~Èq ~Èsq ~   ˆ   Úpq ~ ssq ~ !      2  ˆ   Óq ~Gq ~J     {ÿÿÿÿ    q ~ sxq ~ 
+sq ~ ,          sq ~              ÿÿÿÿq ~sq ~fpsq ~        g    ×    q ~ +sq ~ !        g   ×q ~fsq ~ #   q ~ %sq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,          sq ~               ÿÿÿÿpq ~fpsq ~        g    ×    q ~ +sq ~ !        g   ×q ~fsq ~ #   q ~ %sq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,          sq ~               ÿÿÿÿpq ~fpx ?€  ?€  ?€  sq ~    w   q ~mq ~Íq ~Ôq ~dxuq ~V   sq ~   ‡   Úsq ~   j   Úsq ~   j   Úsq ~   L   Úuq ~[     ‡  j  j  Luq ~[      Ú   Ú   Ú   Ú   
+  ppppsq ~ #   q ~ %sq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +sq ~    w   q ~ Çxq ~ 
+sq ~ ,          sq ~             ÿÿÿÿq ~ Çq ~fpsq ~        :    ô    q ~ +sq ~ !        :   ôsq ~ ‘     "  :    ô   q ~ ›sq ~ !   "     :   ôpsq ~ #   q ~ %sq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,         '       psq ~    w   q ~ésq ~        C       q ~ +sq ~ !        C  q ~ësq ~ #   q ~ %sq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +sq ~    w   sq ~ à       G      ]sq ~     €ÿ  pppsq ~ !      ]  G  psq ~ #   q ~ %sq ~     ÿİİİpppsq ~ '   A@        sq ~ ~?@     w   
+   q ~ €sq ~  @ q ~ †sq ~ ˆ@   q ~ Šq ~ *xq ~ *xq ~ +sq ~    w   q ~òxq ~ 
+sq ~ ,          &       psq ~    w   sq ~ /       ?       q ~ +sq ~ !        ?  q ~øsq ~ #   q ~ ñsq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,          sq ~               sq ~         sq ~ /       ¦       q ~ +sq ~ !        ¦  q ~øsq ~ #    q ~ úsq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,          sq ~              sq ~         sq ~ /       ¦       q ~ +sq ~ !        ¦  q ~øsq ~ #   q ~sq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,          sq ~              sq ~         sq ~ /       ?       q ~ +sq ~ !        ?  q ~øsq ~ #   q ~sq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,          sq ~              sq ~         sq ~ /       r       q ~ +sq ~ !        r  q ~øsq ~ #   q ~sq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,          sq ~              sq ~         sq ~ /       ¦       q ~ +sq ~ !        ¦  q ~øsq ~ #   
+q ~sq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,          sq ~              sq ~         sq ~ /       r       q ~ +sq ~ !        r  q ~øsq ~ #   	q ~'sq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,          sq ~              sq ~         sq ~ /       ?       q ~ +sq ~ !        ?  q ~øsq ~ #   
+q ~0sq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,          sq ~               sq ~         x   F       uq ~ q   q ~q ~q ~q ~q ~$q ~,q ~4q ~<t id_categoriasq ~8        Esq ~         q ~Euq ~<   q ~Eq ~ıq ~ ssq ~   G  sq ~   ¤  sq ~   ¤  sq ~   G  sq ~   ¤  q ~Mq ~Msq ~   G  pq ~ ssq ~ !      ]  G  q ~Gq ~J     {ÿÿÿÿ    q ~ sxq ~ 
+sq ~ ,          sq ~              ÿÿÿÿq ~øq ~ëpsq ~        :       q ~ +sq ~ !        :  q ~ësq ~ #   q ~ %sq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,          sq ~               ÿÿÿÿpq ~ëpsq ~        :    ş    q ~ +sq ~ !        :   şq ~ësq ~ #   q ~ %sq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,          sq ~               ÿÿÿÿpq ~ëpsq ~        :    ş    q ~ +sq ~ !        :   şq ~ësq ~ #   q ~ %sq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,          sq ~               ÿÿÿÿpq ~ëpsq ~        :    ş    q ~ +sq ~ !        :   şq ~ësq ~ #   q ~ %sq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,          sq ~               ÿÿÿÿpq ~ëpx ?€  ?€  ?€  sq ~    w   q ~òq ~Rq ~Yq ~`q ~gq ~éxuq ~V   sq ~   F  sq ~   =  sq ~   =  sq ~   =  sq ~   =  sq ~   =   ÷uq ~[     F  =  =  =  =  =uq ~[                ÷   
+  ppppsq ~ #   q ~ %sq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +sq ~    w   q ~ Çxq ~ 
+sq ~ ,          sq ~             ÿÿÿÿq ~ Çq ~ëpsq ~        I    á    q ~ +sq ~ !        I   ásq ~ ‘       I    á   Cq ~ ›sq ~ !      C  I   ápsq ~ #   q ~ %sq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,         )       psq ~    w   q ~~sq ~        †    ğ    q ~ +sq ~ !        †   ğq ~€sq ~ #   q ~ %sq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +sq ~    w   sq ~ à       Š    ì   Lsq ~     €ÿ  pppsq ~ !      L  Š   ìpsq ~ #   q ~ %sq ~     ÿİİİpppsq ~ '   A@        sq ~ ~?@     w   
+   q ~ €sq ~  @ q ~ †sq ~ ˆ@   q ~ Šq ~ *xq ~ *xq ~ +sq ~    w   q ~‡xq ~ 
+sq ~ ,          (       psq ~    w   sq ~ /       ‚    ä    q ~ +sq ~ !        ‚   äq ~sq ~ #   t 'Cursor de Seta Que Aponta para Noroestesq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,          sq ~               sq ~         sq ~ /       Ø    ä    q ~ +sq ~ !        Ø   äq ~sq ~ #    t 'Cursor de Seta Que Aponta para Nordestesq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,          sq ~              sq ~         sq ~ /       Ø    ü    q ~ +sq ~ !        Ø   üq ~sq ~ #   t &Cursor de Seta Que Aponta para Sudestesq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,          sq ~              sq ~         sq ~ /       ‚    ü    q ~ +sq ~ !        ‚   üq ~sq ~ #   t 'Cursor de Seta Que Aponta para Sudoestesq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,          sq ~              sq ~         sq ~ /       ­    ä    q ~ +sq ~ !        ­   äq ~sq ~ #   t #Cursor de Seta Que Aponta para Cimasq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,          sq ~              sq ~         sq ~ /       Ø    ğ    q ~ +sq ~ !        Ø   ğq ~sq ~ #   
+t $Cursor de Seta Que Aponta Ã  Direitasq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,          sq ~              sq ~         sq ~ /       ­    ü    q ~ +sq ~ !        ­   üq ~sq ~ #   	t $Cursor de Seta Que Aponta para Baixosq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,          sq ~              sq ~         sq ~ /       ‚    ğ    q ~ +sq ~ !        ‚   ğq ~sq ~ #   
+t %Cursor de Seta Que Aponta Ã  Esquerdasq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,          sq ~               sq ~         x   F       uq ~ q   q ~™q ~¢q ~«q ~´q ~½q ~Æq ~Ïq ~Øt 	shop cartsq ~8        5sq ~         q ~âuq ~<   q ~âq ~’q ~ ssq ~   Š   ìsq ~   Ö   ìsq ~   Ö   úsq ~   Š   úsq ~   Ö   óq ~êq ~êsq ~   Š   ópq ~ ssq ~ !      L  Š   ìq ~Gq ~J     {ÿÿÿÿ    q ~ sxq ~ 
+sq ~ ,          sq ~              ÿÿÿÿq ~q ~€psq ~        h    ğ    sq ~     ÿ   pppsq ~ !        h   ğq ~€sq ~ #   t Cursor em Forma de MÃ£osq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ğpq ~ 
+sq ~ ,          sq ~               ÿÿÿÿpq ~€psq ~        h    á    q ~ğsq ~ !        h   áq ~€sq ~ #   q ~ósq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ğpq ~ 
+sq ~ ,          sq ~               ÿÿÿÿpq ~€px ?€  ?€  ?€  sq ~    w   q ~‡q ~ïq ~øq ~~xuq ~V   sq ~   ‰   ósq ~   k   ósq ~   k   äsq ~   L   äuq ~[     ‰  k  k  Luq ~[      ó   ó   ä   ä   
+  ppppsq ~ #   q ~ %sq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +sq ~    w   q ~ Çxq ~ 
+sq ~ ,          sq ~             ÿÿÿÿq ~ Çq ~€pxq ~ 
+sq ~ ,                psq ~    w   sq ~ /       Ì    µ    q ~ +sq ~ !        Ì   µq ~ Çsq ~ #   q ~ ñsq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,          sq ~               sq ~         sq ~ /       N    µ    q ~ +sq ~ !        N   µq ~ Çsq ~ #    q ~ úsq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,          sq ~              sq ~         sq ~ /       N    ù    q ~ +sq ~ !        N   ùq ~ Çsq ~ #   q ~sq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,          sq ~              sq ~         sq ~ /       Ì    ù    q ~ +sq ~ !        Ì   ùq ~ Çsq ~ #   q ~sq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,          sq ~              sq ~         sq ~ /       
+    µ    q ~ +sq ~ !        
+   µq ~ Çsq ~ #   q ~sq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,          sq ~              sq ~         sq ~ /       N    ×    q ~ +sq ~ !        N   ×q ~ Çsq ~ #   
+q ~sq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,          sq ~              sq ~         sq ~ /       
+    ù    q ~ +sq ~ !        
+   ùq ~ Çsq ~ #   	q ~'sq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,          sq ~              sq ~         sq ~ /       Ì    ×    q ~ +sq ~ !        Ì   ×q ~ Çsq ~ #   
+q ~0sq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,          sq ~               sq ~         x   F     uq ~ q   q ~q ~q ~q ~'q ~/q ~7q ~?q ~Gt  produtosq ~8     "   +sq ~ ÿÿÿÿÿÿÿÿq ~Puq ~<   q ~Pq ~ Ìq ~ spppppppppq ~ s      { ÑÍ t edt_attrq ~ sxq ~ 
+sq ~ ,          sq ~             ÿÿÿÿq ~ Çq ~ ºpsq ~        î    ú    q ~ +sq ~ !        î   úq ~ ºsq ~ #   q ~ %sq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,          sq ~               ÿÿÿÿpq ~ ºpsq ~        ²    ú    q ~ +sq ~ !        ²   úq ~ ºsq ~ #   q ~ %sq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,          sq ~               ÿÿÿÿpq ~ ºpsq ~        ²    ²    q ~ +sq ~ !        ²   ²q ~ ºsq ~ #   q ~ %sq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,          sq ~               ÿÿÿÿpq ~ ºpsq ~        I    ²    q ~ +sq ~ !        I   ²q ~ ºsq ~ #   q ~ %sq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,          sq ~               ÿÿÿÿpq ~ ºpx ?€  ?€  ?€  sq ~    w   q ~ Áq ~Wq ~^q ~eq ~lq ~ ¸xuq ~V   sq ~   ñ   ÷sq ~   ñ   ısq ~   µ   ısq ~   µ   µsq ~   L   µsq ~   L   Ãuq ~[     ñ  ñ  µ  µ  L  Luq ~[      ÷   ı   ı   µ   µ   Ã   
+  pppsr "diagramas.conceitual.Cardinalidade€
+K6&‚1]  xr 'desenho.preAnyDiagrama.PreCardinalidadeesÍr64`Î Z MovimentacaoManualZ TamanhoAutmaticoL Cardt 3Ldesenho/preAnyDiagrama/PreCardinalidade$TiposCard;L Fixot Ldesenho/linhas/PontoDeLinha;L  ligadoAq ~ L papelq ~ xr desenho.formas.FormaTextoBaseJ—™‚Og2 Z centrarVerticalZ simplesDezenhoL 
+Alinhamentot 0Ldesenho/formas/FormaTextoBase$AlinhamentoTexto;xq ~         Í    ş   #sq ~     €ÿ  pppsq ~ !      #  Í   şpsq ~ #   q ~ %sq ~     ÿİİİpppsq ~ '   A@        sq ~ ~?@     w   
+   q ~ €sq ~  @ q ~ †sq ~ ˆ@   q ~ Šq ~ *xq ~ *xq ~ +pq ~ 
+sq ~ ,                 psq ~    w   sq ~ /       Å    ö    q ~ +sq ~ !        Å   öq ~ƒsq ~ #   q ~ ñsq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,          sq ~               sq ~         sq ~ /       ò    ö    q ~ +sq ~ !        ò   öq ~ƒsq ~ #    q ~ úsq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,          sq ~              sq ~         sq ~ /       ò       q ~ +sq ~ !        ò  q ~ƒsq ~ #   q ~sq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,          sq ~              sq ~         sq ~ /       Å       q ~ +sq ~ !        Å  q ~ƒsq ~ #   q ~sq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,          sq ~              sq ~         sq ~ /       Û    ö    q ~ +sq ~ !        Û   öq ~ƒsq ~ #   q ~sq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,          sq ~              sq ~         sq ~ /       ò       q ~ +sq ~ !        ò  q ~ƒsq ~ #   
+q ~sq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,          sq ~              sq ~         sq ~ /       Û       q ~ +sq ~ !        Û  q ~ƒsq ~ #   	q ~'sq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,          sq ~              sq ~         sq ~ /       Å       q ~ +sq ~ !        Å  q ~ƒsq ~ #   
+q ~0sq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,          sq ~               sq ~         x   F      uq ~ q   q ~q ~–q ~q ~¦q ~®q ~¶q ~¾q ~Æt Cardinalidade_2sq ~8      
+   sq ~         t (1,n)uq ~<   q ~Òq ~ˆq ~ spppppppppq ~ s ~r .desenho.formas.FormaTextoBase$AlinhamentoTexto          xq ~Ft alCentro ~r 1desenho.preAnyDiagrama.PreCardinalidade$TiposCard          xq ~Ft C1Nq ~ Áq ~ ºq ~ ssq ~ #   q ~ %sq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +sq ~    w   q ~ ®xq ~ 
+sq ~ ,          sq ~             ÿÿÿÿq ~ ®q ~ ºpxq ~ 
+sq ~ ,                psq ~    w   sq ~ /       ù    »    q ~ +sq ~ !        ù   »q ~ ®sq ~ #   q ~ ñsq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,          sq ~               sq ~         sq ~ /       ™    »    q ~ +sq ~ !        ™   »q ~ ®sq ~ #    q ~ úsq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,          sq ~              sq ~         sq ~ /       ™    ÷    q ~ +sq ~ !        ™   ÷q ~ ®sq ~ #   q ~sq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,          sq ~              sq ~         sq ~ /       ù    ÷    q ~ +sq ~ !        ù   ÷q ~ ®sq ~ #   q ~sq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,          sq ~              sq ~         sq ~ /       I    »    q ~ +sq ~ !        I   »q ~ ®sq ~ #   q ~sq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,          sq ~              sq ~         sq ~ /       ™    Ù    q ~ +sq ~ !        ™   Ùq ~ ®sq ~ #   
+q ~sq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,          sq ~              sq ~         sq ~ /       I    ÷    q ~ +sq ~ !        I   ÷q ~ ®sq ~ #   	q ~'sq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,          sq ~              sq ~         sq ~ /       ù    Ù    q ~ +sq ~ !        ù   Ùq ~ ®sq ~ #   
+q ~0sq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,          sq ~               sq ~         x   F      uq ~ q   q ~âq ~êq ~òq ~úq ~q ~
+q ~q ~t temsq ~8        sq ~         q ~#uq ~<   q ~#q ~ ³q ~ ssq ~      ¿sq ~   —   ¿sq ~   —   ñsq ~      ñsq ~   L   ¿sq ~   —   Øsq ~   L   ñsq ~      Øpq ~ ssr java.awt.Polygon¦Y@Y^Äc¯ I  npointsL boundsq ~ [  xpointsq ~ ™[  ypointsq ~ ™xp   sq ~ !   2   –     Ãuq ~[       L  —  Luq ~[      Ü   Ã   Ü   õ~q ~Et 	tp4Pontos~q ~It Upuq ~V   q ~.q ~+q ~,q ~-sq ~      Ğsq ~   3   Èsq ~   ~   Ğsq ~   e   ésq ~      ásq ~   e   Èsq ~   ~   ásq ~   3   é   { xq ~ 
+sq ~ ,          sq ~             ÿÿÿÿq ~ ®q ~ špq ~ sq ~            ®    q ~ +sq ~ !           ®q ~ šsq ~ #   q ~ %sq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,          sq ~               ÿÿÿÿpq ~ špsq ~        0    ®    q ~ +sq ~ !        0   ®q ~ šsq ~ #   q ~ %sq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,          sq ~               ÿÿÿÿpq ~ špx ?€  ?€  ?€  sq ~    w   q ~ q ~Cq ~Jq ~ ¢xuq ~V   sq ~   ¡   ¾sq ~   ¡   ±sq ~   3   ±sq ~   3   Ìuq ~[     ¡  ¡  3  3uq ~[      ¾   ±   ±   Ì   
+  pppsq ~}        }    ¨   #sq ~     €ÿ  pppsq ~ !      #  }   ¨psq ~ #   q ~ %sq ~     ÿİİİpppsq ~ '   A@        sq ~ ~?@     w   
+   q ~ €sq ~  @ q ~ †sq ~ ˆ@   q ~ Šq ~ *xq ~ *xq ~ +pq ~ 
+sq ~ ,                 psq ~    w   sq ~ /       u         q ~ +sq ~ !        u    q ~Ysq ~ #   q ~ ñsq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,          sq ~               sq ~         sq ~ /       ¢         q ~ +sq ~ !        ¢    q ~Ysq ~ #    q ~ úsq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,          sq ~              sq ~         sq ~ /       ¢    ¹    q ~ +sq ~ !        ¢   ¹q ~Ysq ~ #   q ~sq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,          sq ~              sq ~         sq ~ /       u    ¹    q ~ +sq ~ !        u   ¹q ~Ysq ~ #   q ~sq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,          sq ~              sq ~         sq ~ /       ‹         q ~ +sq ~ !        ‹    q ~Ysq ~ #   q ~sq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,          sq ~              sq ~         sq ~ /       ¢    ¬    q ~ +sq ~ !        ¢   ¬q ~Ysq ~ #   
+q ~sq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,          sq ~              sq ~         sq ~ /       ‹    ¹    q ~ +sq ~ !        ‹   ¹q ~Ysq ~ #   	q ~'sq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,          sq ~              sq ~         sq ~ /       u    ¬    q ~ +sq ~ !        u   ¬q ~Ysq ~ #   
+q ~0sq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,          sq ~               sq ~         x   F      uq ~ q   q ~dq ~lq ~tq ~|q ~„q ~Œq ~”q ~œt Cardinalidade_1sq ~8      
+   sq ~         q ~Òuq ~<   q ~Òq ~^q ~ spppppppppq ~ s q ~Õ q ~Øq ~ q ~ šq ~ ssq ~ #   q ~ %sq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +sq ~    w   q ~ xxq ~ 
+sq ~ ,          sq ~             ÿÿÿÿq ~ xq ~ špsq ~        S    ö    q ~ +sq ~ !        S   ösq ~ ‘     "  S    ö   q ~ ›sq ~ !   "     S   öpsq ~ #   q ~ %sq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,                psq ~    w   q ~¯sq ~        \       q ~ +sq ~ !        \  q ~±sq ~ #   q ~ %sq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +sq ~    w   sq ~ à       `      Msq ~     €ÿ  pppsq ~ !      M  `  psq ~ #   q ~ %sq ~     ÿİİİpppsq ~ '   A@        sq ~ ~?@     w   
+   q ~ €sq ~  @ q ~ †sq ~ ˆ@   q ~ Šq ~ *xq ~ *xq ~ +sq ~    w   q ~¸xq ~ 
+sq ~ ,                 psq ~    w   sq ~ /       X       q ~ +sq ~ !        X  q ~¾sq ~ #   q ~ ñsq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,          sq ~               sq ~         sq ~ /       ¯       q ~ +sq ~ !        ¯  q ~¾sq ~ #    q ~ úsq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,          sq ~              sq ~         sq ~ /       ¯       q ~ +sq ~ !        ¯  q ~¾sq ~ #   q ~sq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,          sq ~              sq ~         sq ~ /       X       q ~ +sq ~ !        X  q ~¾sq ~ #   q ~sq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,          sq ~              sq ~         sq ~ /       ƒ       q ~ +sq ~ !        ƒ  q ~¾sq ~ #   q ~sq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,          sq ~              sq ~         sq ~ /       ¯       q ~ +sq ~ !        ¯  q ~¾sq ~ #   
+q ~sq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,          sq ~              sq ~         sq ~ /       ƒ       q ~ +sq ~ !        ƒ  q ~¾sq ~ #   	q ~'sq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,          sq ~              sq ~         sq ~ /       X       q ~ +sq ~ !        X  q ~¾sq ~ #   
+q ~0sq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,          sq ~               sq ~         x   F       uq ~ q   q ~Êq ~Òq ~Úq ~âq ~êq ~òq ~úq ~t 
+id_clientesq ~8        5sq ~         q ~
+uq ~<   q ~
+q ~Ãq ~ ssq ~   `  sq ~   ­  sq ~   ­  sq ~   `  sq ~   ­  q ~q ~sq ~   `  pq ~ ssq ~ !      M  `  q ~Gq ~J     {ÿÿÿÿ    q ~ sxq ~ 
+sq ~ ,          sq ~              ÿÿÿÿq ~¾q ~±psq ~        S       q ~ +sq ~ !        S  q ~±sq ~ #   q ~ %sq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,          sq ~               ÿÿÿÿpq ~±psq ~        S        q ~ +sq ~ !        S   q ~±sq ~ #   q ~ %sq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,          sq ~               ÿÿÿÿpq ~±psq ~        S        q ~ +sq ~ !        S   q ~±sq ~ #   q ~ %sq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,          sq ~               ÿÿÿÿpq ~±psq ~        S        q ~ +sq ~ !        S   q ~±sq ~ #   q ~ %sq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,          sq ~               ÿÿÿÿpq ~±px ?€  ?€  ?€  sq ~    w   q ~¸q ~q ~q ~&q ~-q ~¯xuq ~V   sq ~   _  sq ~   V  sq ~   V  sq ~   V  sq ~   V  sq ~   V   ùuq ~[     _  V  V  V  V  Vuq ~[                ù   
+  ppppsq ~ #   q ~ %sq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +sq ~    w   q ~ xxq ~ 
+sq ~ ,          sq ~             ÿÿÿÿq ~ xq ~±psq ~        –    ö    q ~ +sq ~ !        –   ösq ~ ‘     <  M    ö   Oq ~ ›sq ~ !   <   O  M   öpsq ~ #   q ~ %sq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,                psq ~    w   q ~Dsq ~        V   ,    q ~ +sq ~ !        V  ,q ~Fsq ~ #   q ~ %sq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +sq ~    w   sq ~ à       Z   (   6sq ~     €ÿ  pppsq ~ !      6  Z  (psq ~ #   q ~ %sq ~     ÿİİİpppsq ~ '   A@        sq ~ ~?@     w   
+   q ~ €sq ~  @ q ~ †sq ~ ˆ@   q ~ Šq ~ *xq ~ *xq ~ +sq ~    w   q ~Mxq ~ 
+sq ~ ,                 psq ~    w   sq ~ /       R        q ~ +sq ~ !        R   q ~Ssq ~ #   q ~ ñsq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,          sq ~               sq ~         sq ~ /       ’        q ~ +sq ~ !        ’   q ~Ssq ~ #    q ~ úsq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,          sq ~              sq ~         sq ~ /       ’   8    q ~ +sq ~ !        ’  8q ~Ssq ~ #   q ~sq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,          sq ~              sq ~         sq ~ /       R   8    q ~ +sq ~ !        R  8q ~Ssq ~ #   q ~sq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,          sq ~              sq ~         sq ~ /       r        q ~ +sq ~ !        r   q ~Ssq ~ #   q ~sq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,          sq ~              sq ~         sq ~ /       ’   ,    q ~ +sq ~ !        ’  ,q ~Ssq ~ #   
+q ~sq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,          sq ~              sq ~         sq ~ /       r   8    q ~ +sq ~ !        r  8q ~Ssq ~ #   	q ~'sq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,          sq ~              sq ~         sq ~ /       R   ,    q ~ +sq ~ !        R  ,q ~Ssq ~ #   
+q ~0sq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,          sq ~               sq ~         x   F      uq ~ q   q ~_q ~gq ~oq ~wq ~q ~‡q ~q ~—t nomesq ~8        sq ~         q ~ uq ~<   q ~ q ~Xq ~ ssq ~   ©  sq ~   ß  sq ~   ß  sq ~   ©  sq ~   ß  q ~¨q ~¨sq ~   ©  pq ~ ssq ~ !      6  Z  (q ~Gq ~J     {ÿÿÿÿ    q ~ sxq ~ 
+sq ~ ,          sq ~              ÿÿÿÿq ~Sq ~Fpsq ~        M   ,    q ~ +sq ~ !        M  ,q ~Fsq ~ #   q ~ %sq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,          sq ~               ÿÿÿÿpq ~Fpsq ~        M   
+    q ~ +sq ~ !        M  
+q ~Fsq ~ #   q ~ %sq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,          sq ~               ÿÿÿÿpq ~Fpsq ~        M   
+    q ~ +sq ~ !        M  
+q ~Fsq ~ #   q ~ %sq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,          sq ~               ÿÿÿÿpq ~Fpsq ~        –   
+    q ~ +sq ~ !        –  
+q ~Fsq ~ #   q ~ %sq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,          sq ~               ÿÿÿÿpq ~Fpx ?€  ?€  ?€  sq ~    w   q ~Mq ~­q ~´q ~»q ~Âq ~Dxuq ~V   sq ~   Y  /sq ~   P  /sq ~   P  sq ~   P  sq ~   ™  sq ~   ™   ùuq ~[     Y  P  P  P  ™  ™uq ~[     /  /         ù   
+  ppppsq ~ #   q ~ %sq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +sq ~    w   q ~ xxq ~ 
+sq ~ ,          sq ~             ÿÿÿÿq ~ xq ~Fpxq ~ 
+sq ~ ,                psq ~    w   sq ~ /       8    ·    q ~ +sq ~ !        8   ·q ~ xsq ~ #   q ~ ñsq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,          sq ~               sq ~         sq ~ /       º    ·    q ~ +sq ~ !        º   ·q ~ xsq ~ #    q ~ úsq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,          sq ~              sq ~         sq ~ /       º    û    q ~ +sq ~ !        º   ûq ~ xsq ~ #   q ~sq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,          sq ~              sq ~         sq ~ /       8    û    q ~ +sq ~ !        8   ûq ~ xsq ~ #   q ~sq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,          sq ~              sq ~         sq ~ /       y    ·    q ~ +sq ~ !        y   ·q ~ xsq ~ #   q ~sq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,          sq ~              sq ~         sq ~ /       º    Ù    q ~ +sq ~ !        º   Ùq ~ xsq ~ #   
+q ~sq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,          sq ~              sq ~         sq ~ /       y    û    q ~ +sq ~ !        y   ûq ~ xsq ~ #   	q ~'sq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,          sq ~              sq ~         sq ~ /       8    Ù    q ~ +sq ~ !        8   Ùq ~ xsq ~ #   
+q ~0sq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,          sq ~               sq ~         x   F     uq ~ q   q ~Ûq ~ãq ~ëq ~óq ~ûq ~q ~
+q ~t  clientesq ~8     "   $sq ~ ÿÿÿÿÿÿÿÿq ~uq ~<   q ~q ~ }q ~ spppppppppq ~ s      { ÑÍ q ~Tq ~ sq ~ ®q ~ Çq ~ šq ~Yq ~ ºq ~ƒq ~¾q ~±q ~Sq ~Fq ~ âq ~ Óq ~sq ~fq ~øq ~ëq ~q ~€xsq ~   @   »ur [Ljava.lang.Class;«×®ËÍZ™  xp    sq ~ '   A@        pq ~ *xq ~ +q ~ sq ~     w    xsq ~    w   t 
+cmdDesenhadort 
+cmdLegendat cmdTextot 	cmdApagart 
+cmdEntidadet cmdRelacionamentot cmdAutoRelacionamentot cmdEspecializacaot cmdEspecializacao_Exclusivat cmdEspecializacao_Duplat cmdUniaot cmdUniao_Entidadest cmdEntidadeAssociativat 
+cmdAtributot cmdAtributo_Multivaloradot cmdLinhaxpq ~ +sq ~     ÿ ÿ pppsq ~    w   q ~q ~øq ~sq ~ âq ~Sq ~¾q ~ ºq ~ šq ~ Çq ~ ®q ~ xq ~ q ~Yq ~ƒq ~±q ~Fq ~ Óq ~fq ~ëq ~€xsr desenho.AncoradoriÍ¯Á£CIt L Regiaoq ~ •L 
+ancorasCodeq ~ L areasq ~ xq ~       p    ì    q ~ ›sq ~ !       p   ìpsq ~ #   q ~ %sq ~     ÿİİİpppsq ~ '   A@        pq ~ *xq ~ +pq ~ 
+sq ~ ,      ÿÿÿÿ       psq ~     w    xpsq ~    w   sq ~     sq ~    sq ~    xsq ~    w   sq ~ !        p   ìsq ~ !        p   sq ~ !        p  x~r #controlador.Diagrama$TipoDeDiagrama          xq ~Ft tpConceitualt 3.0.0t 3.1.0t 3t 2t 0   U ÑÍt 
+convlogicoq ~Tuq ~!   
+vq ~ uvq ~ àvq ~}vr (diagramas.conceitual.EntidadeAssociativahV{f°Å©  xr -desenho.preAnyDiagrama.PreEntidadeAssociativakyV[4RB L  internot *Ldesenho/preAnyDiagrama/PreRelacionamento;xq ~ vvr #diagramas.conceitual.Especializacao1ænb
+
+İ  xr (desenho.preAnyDiagrama.PreEspecializacaoA@5¿ Z paintParcialZ  parcial[ ocupadost [Ldesenho/linhas/PontoDeLinha;xr desenho.formas.FormaTriangular÷ëàkZ¸
+; [ PontosDoTrianguloq ~ ˜L 
+toPaintTxtq ~ xq ~ «vq ~ ‘vq ~ ¨vr diagramas.conceitual.TextoŒp0ƒ‹è Z MovimentacaoManualL 
+LinhaMestret Ldesenho/linhas/SuperLinha;xr desenho.preAnyDiagrama.PreTextojF¥7Ïÿ F alfaZ autosizeI gdirecaoZ 	gradienteZ gradientePinteDetalheZ 
+paintTituloI 
+roundRectSizeZ sombraL Tipot +Ldesenho/preAnyDiagrama/PreTexto$TipoTexto;L 	corSombraq ~  L gradienteCorDetalheq ~  L gradienteEndColorq ~  L gradienteStartColorq ~  L tituloq ~ xq ~vr diagramas.conceitual.Uniaoy¥ôÊêôıå  xr desenho.preAnyDiagrama.PreUniaoĞŸ]‹¢’Ò  xq ~Zvr desenho.formas.Desenhador£\oˆì2B I  TIPODEZI  TIPOIMGI TIPOSETAF alfaI 
+anguloSetaI  desvioXI  desvioYI 
+setaLarguraZ setaPontaDireitaZ setaPontaEsquerdaZ simplesDezenhoI tipoL Itensq ~ [ 	byteImaget [BL  imgNameq ~ L  setaCorq ~  xq ~ vr desenho.formas.Legendaö1æ¶³Şé I alturaI alturaTituloL 
+BorderColorq ~  L Itensq ~ L tipot $Ldesenho/formas/Legenda$TipoLegenda;xq ~ t 1.0.0t 3.2.0
